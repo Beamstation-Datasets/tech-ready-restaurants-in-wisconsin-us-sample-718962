@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Wisconsin, US",
+  "export_job_id": "abbfdad1-9903-40b8-a815-19ddba8b2340",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 718962,
+  "location_name": "Wisconsin",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-wisconsin-us-sample-718962",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/718962/beamstation_718962_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_pct": 7.69,
+  "sample_records": 1,
+  "sample_sha256": "43f4effabd515b845717b70b9703abbb7cef2f8e7d1d58ab22fa4d45f75bda02",
+  "sample_size_bytes": 20144,
+  "total_records": 13,
+  "updated_at": "2026-04-08T07:35:41.832766+00:00"
+}
