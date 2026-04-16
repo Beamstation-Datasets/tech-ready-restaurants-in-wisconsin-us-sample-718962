@@ -1,0 +1,12 @@
+{
+  "export_job_id": "abbfdad1-9903-40b8-a815-19ddba8b2340",
+  "id_short": 718962,
+  "published_at": "2026-04-16T19:06:11Z",
+  "repo_name": "tech-ready-restaurants-in-wisconsin-us-sample-718962",
+  "sample_asset_name": "beamstation_718962_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/718962/beamstation_718962_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "43f4effabd515b845717b70b9703abbb7cef2f8e7d1d58ab22fa4d45f75bda02",
+  "sample_size_bytes": 20144,
+  "total_records": 13
+}
