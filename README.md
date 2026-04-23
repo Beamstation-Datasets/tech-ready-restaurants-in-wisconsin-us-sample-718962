@@ -9,9 +9,9 @@
 | Dataset ID | `718962` |
 | Location | Wisconsin |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-15T10:52:43.569844+00:00 |
+| Full dataset size | 8 records |
+| Free sample size | 1 records (12.5%) |
+| Last export | 2026-04-22T18:57:26.718525+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-wisconsin-us-sample-718962/releases/download/sample-latest/beamstation_718962_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
